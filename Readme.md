@@ -16,13 +16,13 @@ Login to the site below: (required Dockerhub account)
 
 then clone this project via github:
 
-    git clone https://github.com/nekinci/netcore-layered-api.git
+    git clone https://github.com/nekinci/simple-netcore-layered.git
 
   
 
 then change directory:
 
-    cd netcore-layered-api
+    cd simple-netcore-layered
 
   
 
