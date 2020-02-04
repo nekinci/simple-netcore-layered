@@ -28,7 +28,7 @@ then change directory:
 
 then build&start project with docker:
 
-    docker build -t myTest:0.1 .
+    docker build -t mytest:0.1 .
 
   
   
