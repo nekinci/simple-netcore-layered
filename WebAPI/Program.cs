@@ -20,7 +20,7 @@ namespace WebAPI
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
-                    webBuilder.UseStartup<Startup>().UseUrls("http://*:80/employees");
+                    webBuilder.UseStartup<Startup>().UseUrls("http://*:80").UseContentRoot("employees");
                 });
     }
 }
