@@ -4,12 +4,14 @@ WORKDIR /app
 
 COPY . .
 
-RUN dotnet publish -C Release -o ./publish
+RUN dotnet publish -c Release -o ./publish
 
 FROM mcr.microsoft.com/dotnet/core/aspnet:3.0
 
 WORKDIR /app
 
 COPY --from=build ./app/WebApi/publish .
+
+EXPOSE 80
 
 CMD ["dotnet", "WebApi.dll"]
