@@ -1,0 +1,11 @@
+C:\Users\Niyazi\source\repos\ASPNETRepository\Entities\bin\Release\netcoreapp3.0\Entities.deps.json
+C:\Users\Niyazi\source\repos\ASPNETRepository\Entities\bin\Release\netcoreapp3.0\Entities.dll
+C:\Users\Niyazi\source\repos\ASPNETRepository\Entities\bin\Release\netcoreapp3.0\Entities.pdb
+C:\Users\Niyazi\source\repos\ASPNETRepository\Entities\bin\Release\netcoreapp3.0\Core.dll
+C:\Users\Niyazi\source\repos\ASPNETRepository\Entities\bin\Release\netcoreapp3.0\Core.pdb
+C:\Users\Niyazi\source\repos\ASPNETRepository\Entities\obj\Release\netcoreapp3.0\Entities.csprojAssemblyReference.cache
+C:\Users\Niyazi\source\repos\ASPNETRepository\Entities\obj\Release\netcoreapp3.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Niyazi\source\repos\ASPNETRepository\Entities\obj\Release\netcoreapp3.0\Entities.AssemblyInfo.cs
+C:\Users\Niyazi\source\repos\ASPNETRepository\Entities\obj\Release\netcoreapp3.0\Entities.csproj.CopyComplete
+C:\Users\Niyazi\source\repos\ASPNETRepository\Entities\obj\Release\netcoreapp3.0\Entities.dll
+C:\Users\Niyazi\source\repos\ASPNETRepository\Entities\obj\Release\netcoreapp3.0\Entities.pdb

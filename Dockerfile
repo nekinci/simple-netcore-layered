@@ -10,7 +10,7 @@ FROM mcr.microsoft.com/dotnet/core/aspnet:3.0
 
 WORKDIR /app
 
-COPY --from=build ./app/WebApi/publish .
+COPY --from=build ./app/publish .
 
 EXPOSE 80
 

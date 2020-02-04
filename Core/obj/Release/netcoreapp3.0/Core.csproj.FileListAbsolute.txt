@@ -1,0 +1,8 @@
+C:\Users\Niyazi\source\repos\ASPNETRepository\Core\bin\Release\netcoreapp3.0\Core.deps.json
+C:\Users\Niyazi\source\repos\ASPNETRepository\Core\bin\Release\netcoreapp3.0\Core.dll
+C:\Users\Niyazi\source\repos\ASPNETRepository\Core\bin\Release\netcoreapp3.0\Core.pdb
+C:\Users\Niyazi\source\repos\ASPNETRepository\Core\obj\Release\netcoreapp3.0\Core.csprojAssemblyReference.cache
+C:\Users\Niyazi\source\repos\ASPNETRepository\Core\obj\Release\netcoreapp3.0\Core.AssemblyInfoInputs.cache
+C:\Users\Niyazi\source\repos\ASPNETRepository\Core\obj\Release\netcoreapp3.0\Core.AssemblyInfo.cs
+C:\Users\Niyazi\source\repos\ASPNETRepository\Core\obj\Release\netcoreapp3.0\Core.dll
+C:\Users\Niyazi\source\repos\ASPNETRepository\Core\obj\Release\netcoreapp3.0\Core.pdb
