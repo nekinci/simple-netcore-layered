@@ -14,4 +14,4 @@ COPY --from=build ./app/publish .
 
 EXPOSE 80
 
-CMD ["dotnet", "WebAPI.dll"]
+RUN dotnet WebAPI.dll
