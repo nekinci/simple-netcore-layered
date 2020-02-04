@@ -16,7 +16,7 @@ Login to the site below: (required Dockerhub account)
 
 then clone this project via github:
 
-    git clone https://github.com/nekinci/netcore-layered-api
+    git clone https://github.com/nekinci/netcore-layered-api.git
 
   
 
