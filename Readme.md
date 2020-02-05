@@ -29,7 +29,7 @@ then change directory:
 then build&start project with docker:
 
     docker build -t mytest:0.1 .
-    docker run -it -p 80:80 mytest
+    docker run -it -p 80:80 mytest:0.1
 Click on the 80 port that appears, then go to the / employees link
 For example: http: //generatedurl.com /employees
 
